@@ -1,4 +1,5 @@
 db:
   user-name: "Service specific name : spring-config-practice"
   pass-word: "123"
-  url: "service specific localhost: test"
+#  url: "service specific localhost: test"
+  url: "Updated URL"
