@@ -1,0 +1,11 @@
+# Since we are using camel case in DatabasePropertiesConfig class, we ust separate with '-'
+db:
+  user-name: "dipak"
+  pass-word: "123"
+  url: "localhost"
+
+app:
+  name: "test"
+  description: "config test app"
+
+management.endpoints.web.exposure.include: "*"
